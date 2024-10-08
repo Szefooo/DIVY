@@ -1,0 +1,14 @@
+
+#firstDiv {
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+#secondDiv {
+    background-color: gray;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
